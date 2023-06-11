@@ -34,7 +34,7 @@ The Xception pre-trained model, after initial underperformance (3% accuracy), sh
 
 The project can be reproduced using Google Colab Pro, as well as the better GPU (A100 or V100) that came with the Pro version. All datasets and models utilized in the project are here in the GitHub repository *(the Kaggle dataset, which I made my first steps with is available on the link above)*. The scripts used in the project are also available in the project's GitHub repository.
 
-To run the code you need to download the datasets (included & augmented) and upload them to your google drive.
+To run the code you need to download the datasets.zip (included & augmented) and upload them to your google drive.
 On Google Colab, the you can run the cell, that mounts the google drive in your Colab environment and then update the paths to your location on the drive.
 
 **Please note** the training took a long time eventhough I had the GPU from Colab Pro, the resources were very inconsistently (sometimes slow & sometimes faster, eventough I paid).
